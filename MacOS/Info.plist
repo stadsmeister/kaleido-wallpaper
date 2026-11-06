@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Kaleido Wallpaper</string>
+	<key>CFBundleExecutable</key>
+	<string>KaleidoWallpaper</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>local.kaleido.wallpaper</string>
+	<key>CFBundleName</key>
+	<string>Kaleido Wallpaper</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>Kaleido Wallpaper asks Music or Spotify what's playing, to show the album cover and its colours in the wallpaper.</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
